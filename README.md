@@ -5,7 +5,7 @@ print('Hello World!!')
 
 # respositoryTest
 
-# Somin 
+# Minwoo 
 ```
 #include <iostream>
 
